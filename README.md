@@ -25,7 +25,9 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_stacked_navbar: ^0.0.1
+  flutter_stacked_navbar:
+    git:
+      url: https://github.com/Shebo-247/flutter_stacked_navbar
 ```
 
 Then run:

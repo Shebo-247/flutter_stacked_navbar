@@ -39,5 +39,6 @@ StackedNavbar(
 ## 📸 Preview
 
 ![Stacked Navbar](images/stacked_navbar.gif)
+<img src="https://github.com/Shebo-247/flutter_stacked_navbar/blob/main/images/stacked_navbar.gif"  width="300"/>
 
 ---
